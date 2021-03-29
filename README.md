@@ -1,5 +1,5 @@
 # MasterMind-Game
-Projeto C++ para o trabalho prático final da disciplina de AED 1.
+Projeto C++ para o trabalho prático final da disciplina de AED 1. AAA
 
 <strong>Descrição:</strong> 
 
