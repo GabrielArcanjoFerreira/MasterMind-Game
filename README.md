@@ -1,5 +1,7 @@
 # MasterMind-Game
-Projeto C++ para o trabalho prático final da disciplina de AED 1. AAA
+Projeto C++ para o trabalho prático final da disciplina de AED 1.
+
+(Exemplo erro git push)
 
 <strong>Descrição:</strong> 
 
